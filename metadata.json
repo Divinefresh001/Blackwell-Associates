@@ -1,0 +1,6 @@
+{
+  "name": "Blackwell & Associates",
+  "description": "Blackwell & Associates is an elite law firm providing authoritative legal solutions and precision results in corporate, defense, and high-impact litigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
